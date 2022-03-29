@@ -2,3 +2,13 @@ h1 {
   text-align: center;
   color: blue;
 }
+h2 {
+  text-align: center;
+}
+
+.container-login-form {
+  display: block;
+  max-width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+}
